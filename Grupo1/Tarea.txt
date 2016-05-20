@@ -1,0 +1,1 @@
+Clasificar por duración del video total y duración de transición de las imágenes.

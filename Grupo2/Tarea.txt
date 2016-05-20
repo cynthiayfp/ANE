@@ -1,0 +1,1 @@
+Clasificar por ciertas palabras mencionadas en el video.(clasificación por texto).

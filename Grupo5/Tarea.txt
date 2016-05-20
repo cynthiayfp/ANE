@@ -1,0 +1,1 @@
+En base de los índices, interactue la información del cliente con los algoritmos de Suruna que estarán en la nube.
